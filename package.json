@@ -59,7 +59,7 @@
     "axios": "^0.21.1",
     "bchaddrjs": "^0.5.2",
     "bignumber.js": "^9.0.1",
-    "bitcoinjs-lib": "^5.2.0",
+    "bitcoinjs-lib": "^5.2.1",
     "bitcore-lib-cash": "^8.25.7",
     "bitcore-mnemonic": "^8.25.7",
     "chart.js": "^2.9.4",
